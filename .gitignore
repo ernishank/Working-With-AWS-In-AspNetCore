@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AmazonRekognitionApp/.vs
+/AmazonRekognitionApp/bin/Debug/net8.0
+/AmazonRekognitionApp/obj
+/AWSBedrockApp/.vs
+/AWSBedrockApp/bin/Debug/net8.0
+/AWSBedrockApp/obj
+/DemoAPIWithLambda/.config
+/DemoAPIWithLambda/.vs
+/DemoAPIWithLambda/bin
+/DemoAPIWithLambda/obj
+/DemoAPIWithLambda/Properties/PublishProfiles
+/DynamoDBApp/.vs
+/DynamoDBApp/bin/Debug/net8.0
+/DynamoDBApp/obj
+/WorkingWithS3/.vs
+/WorkingWithS3/bin/Debug/net8.0
+/WorkingWithS3/obj

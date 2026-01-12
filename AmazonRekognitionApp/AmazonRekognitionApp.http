@@ -1,0 +1,6 @@
+@AmazonRekognitionApp_HostAddress = http://localhost:5063
+
+GET {{AmazonRekognitionApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
